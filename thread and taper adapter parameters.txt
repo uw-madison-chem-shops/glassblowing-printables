@@ -1,0 +1,63 @@
+
+    "Taper slope" = 10
+    'standard taper ratio
+
+    "min major diameter 1" = 14.1
+    'minimum major diameter
+
+    "max major diameter 1" = 14.35
+    'max major diameter
+
+    "major diameter 1" = ("min major diameter 1" + "max major diameter 1") / 2
+    'average major diameter
+
+    "min minor diameter 1" = 12.42
+    'minimum major diameter
+
+    "max minor diameter 1" = 12.67
+    'max major diameter
+
+    "minor diameter 1" = ("min minor diameter 1" + "max minor diameter 1") / 2
+    'average major diameter
+
+
+    "min major diameter 2" = 13.6
+    'minimum major diameter
+
+    "max major diameter 2" = 14
+    'max major diameter
+
+    "major diameter 2" = ("min major diameter 2" + "max major diameter 2") / 2
+    'average major diameter
+
+    "min minor diameter 2" = 11.92
+    'minimum major diameter
+
+    "max minor diameter 2" = 12.32
+    'max major diameter
+
+    "minor diameter 2" = ("min minor diameter 2" + "max minor diameter 2") / 2
+    'average major diameter
+
+
+    "pitch 1" = 2.5
+    'thread pitch
+
+    "pitch 2" = 2.5
+    'thread pitch
+
+    "Taper wide end 1" = 24
+    'taper at larger end of taper
+
+    "taper length 1" = 40
+    'taper length
+
+    "taper Wide end 2" = 24
+    'large end of taper
+
+    "taper length 2" = 40
+    'taper length
+
+    "wall min thickness" = 6
+    'min thickness of walls add to outer most diameter of internal features will give thickness equal to half the value
+    
