@@ -4,11 +4,17 @@
 
 Designed using [solidworks](https://www.solidworks.com/), with generated STL files for your convinience.
 
+Download the STL files and use them in your own 3D printer or with a 3D printing service, such as [craftcloud](https://craftcloud3d.com/).
+
 ## Cutting Fixture
+
+For holding parts in the saw.
 
 ![Cutting Fixture](./cutting-fixture/cutting-fixture.jpg)
 
 ## Thread and Taper
+
+For holding parts in the torch.
 
 ![Thread and Taper](./thread-and-taper/thread-and-taper.jpg)
 
@@ -17,8 +23,9 @@ This .txt can be generated using "equationsGenerator.py" to fit with a variety o
 There is a limitation with the parameters, the pitch of the threads which must be adjusted manually in the spiral features.
 The thread standards used are from https://www.gewinde-normen.de/en/knuckle-thread-din-168.html
 
-
 ## V Block
+
+For holding tubestock in the saw at certain angles.
 
 ![V Block](./vblock/vblock.jpg)
  
