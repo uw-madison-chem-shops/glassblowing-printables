@@ -32,6 +32,10 @@ Ideas by Lauren Aria.
 
 ## Lock Hinge Glass Cutter and Seesaw Glass Cutter
 
+Many scientific and artistic glass applications require tubing or components cut at precise, repeatable angles. This project delivers a low-cost, 3D-printable fixture—requiring only basic hardware and a sacrificial backplate—that anyone with a 3D printer can assemble.
+
+Versions 3 and 4 improve upon earlier prototypes by offering angle locking mechanisms and fine-tuned linear adjustments, all while retaining high accuracy and precision.
+
 ![Picture1](https://github.com/user-attachments/assets/dedb873c-8ab6-4343-b93b-cfccb6404550)![Picture2](https://github.com/user-attachments/assets/9ebbc6e7-6385-48ea-9860-63a3063b37ef)![Picture3](https://github.com/user-attachments/assets/718466cb-f471-4bef-bd10-aea7f8b765e2)
 ![Picture4](https://github.com/user-attachments/assets/16197d06-10d0-4c23-a29a-e318a14ec93b)![Picture5](https://github.com/user-attachments/assets/810932fd-8cae-4e63-997b-cd6c1a1081a4)![Picture6](https://github.com/user-attachments/assets/7150ffdc-154c-4e0e-b650-7088659f7632)
 
